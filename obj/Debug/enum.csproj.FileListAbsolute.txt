@@ -1,0 +1,8 @@
+F:\day - 3\enum\enum\bin\Debug\@enum.exe.config
+F:\day - 3\enum\enum\bin\Debug\@enum.exe
+F:\day - 3\enum\enum\bin\Debug\@enum.pdb
+F:\day - 3\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+F:\day - 3\enum\enum\obj\Debug\enum.csproj.SuggestedBindingRedirects.cache
+F:\day - 3\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+F:\day - 3\enum\enum\obj\Debug\@enum.exe
+F:\day - 3\enum\enum\obj\Debug\@enum.pdb
